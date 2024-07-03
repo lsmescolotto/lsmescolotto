@@ -1,4 +1,4 @@
-<img align="right" width="100" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVqc2MwOGlvNjhhNDlzbXE4ZDFwMThyeTJ1b3RtemwxYTVncjN2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif">
+<img  align="right" width="300" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVqc2MwOGlvNjhhNDlzbXE4ZDFwMThyeTJ1b3RtemwxYTVncjN2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif">
 
 ## Hi there 👋 I'm Luiza
 
