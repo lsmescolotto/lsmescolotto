@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Luiza
+# Hi there 👋 I'm Luiza
 
 A Full-Stack software engineer focused on React.js and Node.js. I also have explored other technologies such as Python, Angular.js and React Native.
 
